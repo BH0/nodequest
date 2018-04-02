@@ -1,0 +1,15 @@
+{
+  "name": "nodequest",
+  "version": "1.0.0",
+  "description": "A project for practising unit testing + continious integration",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
