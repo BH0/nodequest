@@ -15,7 +15,7 @@ class Game {
 	} 
 } 
 
-let player = new Player("P", 10, 10); 
+let player = new Player("P", 10, 20); 
 let enemy = new Enemy("E", 10, 10); 
 let game = new Game(player, enemy); 
 game.attack(); 
